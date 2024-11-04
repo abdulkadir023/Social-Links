@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abdulkadir023/Social-Links](https://github.com/abdulkadir023/Social-Links)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://social-links-profiles-o2656fsd7-abdulkadir023s-projects.vercel.app/](https://social-links-profiles-o2656fsd7-abdulkadir023s-projects.vercel.app/)
 
 ## My process
 
